@@ -1,5 +1,6 @@
 # main.py
 ### well here we go again
+## Main script to create and update multiple Arm objects
 
 
 from arm_class import Arm

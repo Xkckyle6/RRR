@@ -1,0 +1,9 @@
+# Ignore CSV data files
+*.csv
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
